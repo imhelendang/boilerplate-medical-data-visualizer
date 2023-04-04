@@ -1,6 +1,6 @@
 # Medical Data Visualizer
 
-This is my approach for the boilerplate for the Medical Data Visualizer project with some help from the FreeCodeCamp forum. 
+This is my approach for the boilerplate for the Medical Data Visualizer project with some help from the FreeCodeCamp forum. Please take my work as a reference not a solution.
 
 -- 🫶🏻
 
